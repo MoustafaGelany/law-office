@@ -1,0 +1,9 @@
+header {
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.711) , rgba(0, 0, 0, 0.705)) ,
+      url(../img/45.jpg);
+      background-position: center;
+      background-size: cover;
+      padding-top: 160px;
+      text-align: center;
+}
